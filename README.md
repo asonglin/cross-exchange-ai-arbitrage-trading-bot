@@ -27,9 +27,11 @@ Prices for the same asset often **differ across venues** due to latency, liquidi
 
 Need **custom arbitrage bots**, **multi-exchange execution**, or **oracle/API integrations**? Get in touch:
 
+**For collaboration or development work:**
+
+- **GitHub** — [Open an issue](https://github.com/asonglin/cross-exchange-ai-arbitrage-bot/issues)
 - **Telegram** — [@jjcunningham](https://t.me/jjcunningham)
 - **Email** — jj.cunningham1129@gmail.com
-- **GitHub** — [Open an issue](https://github.com/asonglin/cross-exchange-ai-arbitrage-bot/issues)
 
 ---
 

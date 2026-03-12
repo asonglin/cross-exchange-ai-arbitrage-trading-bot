@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Vite Dev Server",
+			"type": "shell",
+			"command": "cd /Users/saipranav/Documents/GitHub/Arbix/Frontend && node_modules/.bin/vite --port 3001",
+			"isBackground": true,
+			"problemMatcher": []
+		}
+	]
+}

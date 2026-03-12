@@ -1,0 +1,20 @@
+{
+  "network": "bscTestnet",
+  "chainId": 97,
+  "deployer": "0xcdc3d2ec640F8364ee9f58e7338Ed0e79f9001e0",
+  "deployedAt": "2026-02-28T07:01:38.456Z",
+  "contracts": {
+    "ArbixPriceOracle": {
+      "address": "0x73764D77B6736a2643Ea6fB773AeBb79FaFc7a83",
+      "bscscan": "https://testnet.bscscan.com/address/0x73764D77B6736a2643Ea6fB773AeBb79FaFc7a83"
+    },
+    "ArbixExecutor": {
+      "address": "0x2df9e83a350027991170ab82a83FBD1836d76d3B",
+      "bscscan": "https://testnet.bscscan.com/address/0x2df9e83a350027991170ab82a83FBD1836d76d3B"
+    },
+    "ArbixVault": {
+      "address": "0xde18515788bd4bE6FA3C09AFd7957E1A47aEc307",
+      "bscscan": "https://testnet.bscscan.com/address/0xde18515788bd4bE6FA3C09AFd7957E1A47aEc307"
+    }
+  }
+}

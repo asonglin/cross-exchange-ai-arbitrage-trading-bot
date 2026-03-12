@@ -1,12 +1,12 @@
-# Cross-Exchange Arbitrage Bot 🚀
+# Cross-Exchange AI Arbitrage Bot 🚀
 
-**AI-powered cross-exchange crypto arbitrage.** Detect price discrepancies across CEX/DEX, run automated or manual execution, and monitor spreads in real time.
+**AI trading bot** for cross-exchange crypto arbitrage. Detect price discrepancies across CEX/DEX, run automated or manual execution, and monitor spreads in real time.
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Stars](https://img.shields.io/github/stars/asonglin/cross-exchange-arbitrage-bot)](https://github.com/asonglin/cross-exchange-arbitrage-bot/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Stars](https://img.shields.io/github/stars/asonglin/cross-exchange-ai-arbitrage-bot)](https://github.com/asonglin/cross-exchange-ai-arbitrage-bot/stargazers)
 
 ---
 
-![Cross-Exchange Arbitrage Bot](assets/image.png)
+![Cross-Exchange AI Arbitrage Bot](assets/image.png)
 
 ## Why cross-exchange arbitrage
 
@@ -29,7 +29,7 @@ Need **custom arbitrage bots**, **multi-exchange execution**, or **oracle/API in
 
 - **Telegram** — [@jjcunningham](https://t.me/jjcunningham)
 - **Email** — jj.cunningham1129@gmail.com
-- **GitHub** — [Open an issue](https://github.com/asonglin/cross-exchange-arbitrage-bot/issues)
+- **GitHub** — [Open an issue](https://github.com/asonglin/cross-exchange-ai-arbitrage-bot/issues)
 
 ---
 
@@ -76,8 +76,8 @@ Frontend (monitoring, controls)
 ## Quick start
 
 ```bash
-git clone https://github.com/asonglin/cross-exchange-arbitrage-bot.git
-cd cross-exchange-arbitrage-bot
+git clone https://github.com/asonglin/cross-exchange-ai-arbitrage-bot.git
+cd cross-exchange-ai-arbitrage-bot
 ```
 
 **Backend (Python):** `cd Backend && pip install -r requirements.txt` — configure oracles and run `main.py`.  
@@ -89,7 +89,7 @@ cd cross-exchange-arbitrage-bot
 ## Project layout
 
 ```
-cross-exchange-arbitrage-bot/
+cross-exchange-ai-arbitrage-bot/
 ├── Backend/          # Python oracles (Binance, Coinbase, 1inch, PancakeSwap, Jupiter), main.py
 ├── Frontend/         # Vite app, monitoring UI
 ├── Contracts/        # Solidity (e.g. ArbixVault), scripts
@@ -100,12 +100,10 @@ cross-exchange-arbitrage-bot/
 
 ## Related projects
 
-- [Crypto Arbitrage AI](https://github.com/asonglin/crypto-arbitrage-ai) — ML-based arbitrage signals
-- [Crypto Liquidity Hunting Bot](https://github.com/asonglin/crypto-liquidity-hunting-bot)
-- [Funding Rate Arbitrage Bot](https://github.com/asonglin/funding-rate-arbitrage-bot)
-- [Whale Tracking AI](https://github.com/asonglin/whale-tracking-crypto-bot)
-- [Market Manipulation Detection Bot](https://github.com/asonglin/market-manipulation-detection-bot)
-- [Crypto Signal Engine](https://github.com/asonglin/crypto-signal-engine-ai)
+Part of the same AI trading bot suite:
+
+- [Crypto Futures AI Trading Bot](https://github.com/asonglin/crypto-futures-ai-trading-bot) — AI trading bot for funding arbitrage and smart-money monitoring
+- [Crypto Liquidity AI Trading Bot](https://github.com/asonglin/crypto-liquidity-ai-trading-bot) — AI trading bot for order-book liquidity and sweep signals
 
 ---
 
